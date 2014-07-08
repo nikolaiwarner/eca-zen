@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "eca-zen",
+  "description": "decluttered eca today / gameculture links",
+  "version": "1.0",
+  "permissions": [
+    "http://gameculture.com/"
+  ],
+  "options_page": "background.html"
+}
